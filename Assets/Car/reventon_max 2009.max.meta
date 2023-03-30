@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: 434b8090af3d98e4ebfa1bf56996082d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Airintake
+    100002: Airintake01
+    100004: body
+    100006: body_a04
+    100008: body_a05
+    100010: body_a06
+    100012: Camera01
+    100014: Camera01.Target
+    100016: Compass01
+    100018: front_brak02
+    100020: front_brak03
+    100022: Front_tire
+    100024: Front_tire01
+    100026: front_tire02
+    100028: front_tire03
+    100030: front_wind02
+    100032: Grill_Front
+    100034: Grill_R
+    100036: interior_a02
+    100038: kit:01
+    100040: kit:02
+    100042: kit:03
+    100044: left_bra02
+    100046: left_brake02
+    100048: left_hea02
+    100050: left_headl02
+    100052: Plane01
+    100054: rear_brake02
+    100056: rear_brake03
+    100058: rear_tire_02
+    100060: rear_tire_03
+    100062: reventon01
+    100064: reventon02
+    100066: //RootNode
+    100068: right_br02
+    100070: right_brak02
+    100072: right_he02
+    100074: right_head02
+    100076: tire_rear
+    100078: tire_rear01
+    400000: Airintake
+    400002: Airintake01
+    400004: body
+    400006: body_a04
+    400008: body_a05
+    400010: body_a06
+    400012: Camera01
+    400014: Camera01.Target
+    400016: Compass01
+    400018: front_brak02
+    400020: front_brak03
+    400022: Front_tire
+    400024: Front_tire01
+    400026: front_tire02
+    400028: front_tire03
+    400030: front_wind02
+    400032: Grill_Front
+    400034: Grill_R
+    400036: interior_a02
+    400038: kit:01
+    400040: kit:02
+    400042: kit:03
+    400044: left_bra02
+    400046: left_brake02
+    400048: left_hea02
+    400050: left_headl02
+    400052: Plane01
+    400054: rear_brake02
+    400056: rear_brake03
+    400058: rear_tire_02
+    400060: rear_tire_03
+    400062: reventon01
+    400064: reventon02
+    400066: //RootNode
+    400068: right_br02
+    400070: right_brak02
+    400072: right_he02
+    400074: right_head02
+    400076: tire_rear
+    400078: tire_rear01
+    2000000: Camera01
+    2100000: 'Material #51'
+    2100002: 'Material #37'
+    2100004: 'Material #26'
+    2100006: 'Material #32'
+    2100008: 'Material #38'
+    2100010: 'Material #28'
+    2100012: 'Material #33'
+    2100014: 'Material #31'
+    2100016: 'Material #36'
+    2100018: 'Material #29'
+    2100020: 'Material #30'
+    2100022: body_a02
+    2100024: body_a01
+    2100026: glass
+    2100028: 02 - Default
+    2100030: 'Material #40'
+    2100032: 05 - Default
+    2100034: 07 - Default
+    2100036: 'Material #27'
+    2100038: 09 - Default
+    2100040: 08 - Default
+    2100042: No Name
+    2100044: 'Material #39'
+    2300000: Airintake
+    2300002: Airintake01
+    2300004: body
+    2300006: body_a04
+    2300008: body_a05
+    2300010: body_a06
+    2300012: front_brak02
+    2300014: front_brak03
+    2300016: front_tire02
+    2300018: front_tire03
+    2300020: front_wind02
+    2300022: Grill_Front
+    2300024: Grill_R
+    2300026: interior_a02
+    2300028: left_bra02
+    2300030: left_brake02
+    2300032: left_hea02
+    2300034: left_headl02
+    2300036: Plane01
+    2300038: rear_brake02
+    2300040: rear_brake03
+    2300042: rear_tire_02
+    2300044: rear_tire_03
+    2300046: right_br02
+    2300048: right_brak02
+    2300050: right_he02
+    2300052: right_head02
+    3300000: Airintake
+    3300002: Airintake01
+    3300004: body
+    3300006: body_a04
+    3300008: body_a05
+    3300010: body_a06
+    3300012: front_brak02
+    3300014: front_brak03
+    3300016: front_tire02
+    3300018: front_tire03
+    3300020: front_wind02
+    3300022: Grill_Front
+    3300024: Grill_R
+    3300026: interior_a02
+    3300028: left_bra02
+    3300030: left_brake02
+    3300032: left_hea02
+    3300034: left_headl02
+    3300036: Plane01
+    3300038: rear_brake02
+    3300040: rear_brake03
+    3300042: rear_tire_02
+    3300044: rear_tire_03
+    3300046: right_br02
+    3300048: right_brak02
+    3300050: right_he02
+    3300052: right_head02
+    4300000: body_a04
+    4300002: body_a05
+    4300004: body_a06
+    4300006: front_wind02
+    4300008: interior_a02
+    4300010: left_bra02
+    4300012: left_brake02
+    4300014: left_hea02
+    4300016: left_headl02
+    4300018: right_br02
+    4300020: right_brak02
+    4300022: right_he02
+    4300024: right_head02
+    4300026: front_tire02
+    4300028: front_brak02
+    4300030: front_tire03
+    4300032: front_brak03
+    4300034: rear_brake02
+    4300036: rear_tire_02
+    4300038: rear_tire_03
+    4300040: rear_brake03
+    4300042: Plane01
+    4300044: Grill_R
+    4300046: Grill_Front
+    4300048: body
+    4300050: Airintake01
+    4300052: Airintake
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

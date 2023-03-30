@@ -1,0 +1,181 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.0b4 (6d90c0720bd4) revision 7180480'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise; OS build 18363.1316; Version 1909; 64bit' Language: 'en' Physical Memory: 8072 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.0b4\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/UNITY/Racing Car
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49957
+Successfully changed project path to: D:/UNITY/Racing Car
+D:/UNITY/Racing Car
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 211.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.0b4 (6d90c0720bd4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.0b4/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/UNITY/Racing Car/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   NVIDIA
+    VRAM:     4021 MB
+    Driver:   24.21.13.9924
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.0b4/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.0b4/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.0b4/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56172
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.0b4/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001823 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 46.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.785 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.057478 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+UnityIAP: [InitializeOnLoad] Facebook Check
+UnityIAP: Runtime [2021.1.0b4]
+UnityIAP: Current Build is Standalone:StandaloneWindows64
+UnityIAP: stub FacebookStore.dll disabled
+Mono: successfully reloaded assembly
+- Completed reload, in  1.049 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1809 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 228.9 MB.
+System memory in use after: 229.0 MB.
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 2262.
+Total: 6.043700 ms (FindLiveObjects: 0.228500 ms CreateObjectMapping: 0.132900 ms MarkObjects: 5.577900 ms  DeleteObjects: 0.103100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/race.dae
+  artifactKey: Guid(1e4b74aa2a0948d44b8fe2f88ce81122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race.dae using Guid(1e4b74aa2a0948d44b8fe2f88ce81122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '783ed82f1a911d69b10043e25e2a8b16') in 6.372014 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016124 seconds.
+  path: Assets/Pagani Zonda R 2009.3ds
+  artifactKey: Guid(042ab1290b3ebe1469646b3175278fc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pagani Zonda R 2009.3ds using Guid(042ab1290b3ebe1469646b3175278fc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79372632f16946a0fdfc862247899877') in 0.372053 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013049 seconds.
+  path: Assets/race.dae
+  artifactKey: Guid(1e4b74aa2a0948d44b8fe2f88ce81122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/race.dae using Guid(1e4b74aa2a0948d44b8fe2f88ce81122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '783ed82f1a911d69b10043e25e2a8b16') in 5.799665 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004067 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+UnityIAP: [InitializeOnLoad] Facebook Check
+UnityIAP: Runtime [2021.1.0b4]
+UnityIAP: Current Build is Standalone:StandaloneWindows64
+UnityIAP: stub FacebookStore.dll disabled
+Mono: successfully reloaded assembly
+- Completed reload, in  1.207 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 237.5 MB.
+System memory in use after: 237.6 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 2307.
+Total: 9.963500 ms (FindLiveObjects: 0.276700 ms CreateObjectMapping: 0.152900 ms MarkObjects: 9.490800 ms  DeleteObjects: 0.040500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3409.458989 seconds.
+  path: Assets/Racing Car.unity
+  artifactKey: Guid(464fb3f4e2d8a934699341922fffe98d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Racing Car.unity using Guid(464fb3f4e2d8a934699341922fffe98d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '291adc0582f2fb33c8d24f95f9714370') in 0.031272 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.607805 seconds.
+  path: Assets/Racing Car.unity
+  artifactKey: Guid(464fb3f4e2d8a934699341922fffe98d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Racing Car.unity using Guid(464fb3f4e2d8a934699341922fffe98d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c50082e5b485e006c56cf9d4f6319ff9') in 0.004151 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 34.515042 seconds.
+  path: Assets/Standard Assets/Vehicles/Car/Audio/AccelerationHigh.wav
+  artifactKey: Guid(03e3bd08a6e70684dbe299a3e185fdd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Vehicles/Car/Audio/AccelerationHigh.wav using Guid(03e3bd08a6e70684dbe299a3e185fdd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97a65c2e959fb15463a9870c3fa07f34') in 0.469501 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014603 seconds.
+  path: Assets/Standard Assets/Vehicles/Car/Audio/DecelerationLow.wav
+  artifactKey: Guid(5699dddcce16c4543b95951c4ce0e092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Vehicles/Car/Audio/DecelerationLow.wav using Guid(5699dddcce16c4543b95951c4ce0e092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '532f2d47583a2cc48b2987343a08cb71') in 0.064538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014597 seconds.
+  path: Assets/Standard Assets/Vehicles/Car/Audio/DecelerationHigh.wav
+  artifactKey: Guid(03bf91d88fce91c41995d27de63cc967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Vehicles/Car/Audio/DecelerationHigh.wav using Guid(03bf91d88fce91c41995d27de63cc967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bcbd04c13339a20e9eae21313a11ca6') in 0.035342 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013287 seconds.
+  path: Assets/Standard Assets/Vehicles/Car/Audio/AccelerationLow.wav
+  artifactKey: Guid(c4d8928c75c21af43998193f0f038429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Vehicles/Car/Audio/AccelerationLow.wav using Guid(c4d8928c75c21af43998193f0f038429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91f4ad81f89721219d9b73b55481ab2f') in 0.034625 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014848 seconds.
+  path: Assets/Standard Assets/Vehicles/Car/Audio/Skid.wav
+  artifactKey: Guid(bd9566abdbf08834281bfb4ea8b92a5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Vehicles/Car/Audio/Skid.wav using Guid(bd9566abdbf08834281bfb4ea8b92a5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0be61f60b22a7d6ff9d6c45aa85c9938') in 0.036113 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004280 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+UnityIAP: [InitializeOnLoad] Facebook Check
+UnityIAP: Runtime [2021.1.0b4]
+UnityIAP: Current Build is Standalone:StandaloneWindows64
+UnityIAP: stub FacebookStore.dll disabled
+Mono: successfully reloaded assembly
+- Completed reload, in  1.092 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 237.6 MB.
+System memory in use after: 237.7 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 2312.
+Total: 7.010600 ms (FindLiveObjects: 0.195700 ms CreateObjectMapping: 0.077700 ms MarkObjects: 6.687400 ms  DeleteObjects: 0.048300 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
